@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MolebenActivity"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Moleben pred klokočovskou ikonou Presvätej Bohorodičky"
+            android:textSize="30sp"
+            android:textColor="#000000"
+            android:textAlignment="center"
+            android:layout_margin="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Kňaz pred ikonou Bohorodičky začína: Požehnaný Boh náš, a nasleduje obvyklý začiatok až po Otče náš. Nasleduje zvolanie kňaza a tropár. Ak sa moleben bude slúžiť na konci svätej liturgie, po zaambónovej modlitbe, ešte pred Nech je požehnané Pánovo meno, začíname ihneď tropár a celý moleben ako nasleduje."
+            android:layout_margin="8dp"
+            android:textColor="#FFFF0000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Tropár, hl. 7. Ako drahocenný poklad ukrytý v poli, * zažiarila v Klokočove tvoja ikona, Prečistá, * uprostred modliaceho sa chudobného ľudu, * ktorý na nej uzrel slzy hojne tečúce. * My ich, Matka, prijímame ako prejav tvojho súcitu v našich ťažkostiach * a zároveň ako výzvu k obráteniu; * preto k tebe pokorne voláme: * Pros, Dobrotivá, Krista z teba zrodeného, * aby spasil naše duše."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Sláva: I teraz: Kondák, hl. 8. Tebe, láskavá Vládkyňa, Bohorodička, * prinášame pieseň vďaky a chvály. * Viac než slová prihovárajú sa k nám tvoje slzy; * nachádzame v nich posilu, útechu i odvahu. * Zastávaj sa svojho ľudu, aby ti mohol stále spievať: * Raduj sa, Matka plačúca, ale neopúšťajúca!"
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Velebenie. Počas velebenia kňaz okiadza najprv ikonu, potom prestol, svätyňu, ikonostas a ľud."
+            android:layout_margin="8dp"
+            android:textColor="#FFFF0000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Velebíme ťa, * Nepoškvrnená Bohorodička Panna, * a uctievame tvoje drahocenné slzy, * ktoré si v Klokočove súcitne ronila."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Verš 1: Povedzte Bohu: „Úžasné sú tvoje diela! * Toľká je tvoja moc, že aj tvoji nepriatelia pred tebou sa klonia."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Verš 2: Národy, oslavujte pravého Boha, * rozhlasujte všade jeho veľkú slávu!"
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Verš 3: Poďte, čujte všetci, čo si ctíte Boha, * rozpoviem vám všetko, čo pre mňa urobil."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Sláva: I teraz: Aleluja 3x, Sláva tebe, Bože."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      D.: Vnímajme! \n      K.: Pokoj všetkým! \n      D.: Premúdrosť, Vnímajme!"
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Ľ.: Prokimen, hl.4. Sám Kráľ zatúžil za tvojou krásou * on je tvoj Pán, vzdaj mu poklonu."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Verš: Veľmi vznešená je dcéra kráľovská vnútri, jej odevom sú zlaté tkanivá."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      D.: Modlime sa k Pánovi. \n      Ľ.: Pane, zmiluj sa."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      K.: Lebo ty si svätý, Bože náš, a medzi svätými prebývaš, a my ti vzdávame slávu, Otcu i Synu i Svätému Duchu, teraz i vždycky i na veky vekov. \n      Ľ.: Amen."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      D.: Všetko, čo dýcha, nech chváli Pána. \n      Ľud opakuje to isté."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      D.: Chváľte Boha v jeho svätyni, chváľte ho na jeho vznešenej oblohe. \n      Ľ.: Všetko, čo dýcha..."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      D.: Aby nás uznal za hodných vypočuť sväté evanjelium, v pokoji Pána Boha prosme. \n      Ľ.: Pane, zmiluj sa (3x)"
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      K.: Premúdrosť, pozorne počúvajme sväté evanjelium. Pokoj všetkým! \n      Ľ.: I tvojmu duchu."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      K.: Čítanie zo svätého evanjelia podľa Matúša. \n      Ľ.: Sláva tebe, Pane, sláva tebe. \n      D.: Vnímajme!"
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      V tom čase, kým Ježiš ešte hovoril zástupom, vonku stála jeho matka a bratia a chceli sa s ním rozprávať. Ktosi mu povedal: „Vonku stojí tvoja matka a tvoji bratia a chcú sa s tebou rozprávať.“ On však odvetil tomu, čo mu to vravel: „Kto je moja matka a kto sú moji bratia?“ Vystrel ruku nad svojich učeníkov a povedal: „Hľa, moja matka a moji bratia. Lebo každý, kto plní vôľu môjho Otca, ktorý je na nebesiach, je môj brat i sestra i matka.“"
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Alebo: Čítanie zo svätého evanjelia podľa Lukáša."
+            android:layout_margin="8dp"
+            android:textColor="#FFFF0000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      V tom čase Mária hovorila: „Velebí moja duša Pána a môj duch jasá v Bohu, mojom spasiteľovi, lebo zhliadol na poníženosť svojej služobnice. Hľa, od tejto chvíle blahoslaviť ma budú všetky pokolenia, lebo veľké veci mi urobil ten, ktorý je mocný, a sväté je jeho meno a jeho milosrdenstvo z pokolenia na pokolenie s tými, čo sa ho boja. Ukázal silu svojho ramena, rozptýlil tých, čo v srdci pyšne zmýšľajú. Mocnárov zosadil z trónov a povýšil ponížených. Hladných nakŕmil dobrotami a bohatých prepustil naprázdno. Ujal sa Izraela, svojho služobníka, lebo pamätá na svoje milosrdenstvo, ako sľúbil našim otcom, Abrahámovi a jeho potomstvu naveky.“ \n\n       Ľ.: Sláva tebe, Pane, sláva tebe."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Mária, Kráľovná, ktorá si našla milosť u Boha, \n      Mária, zatvorená a nedotknutá záhrada vyhradená Najvyššiemu, raduj sa a chráň teba zvelebujúcich."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Ref.: Klokočovska Božia Matka, pros Boha za nás."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Mária, nádherne voňajúci kvet čistoty, \n      Mária, ľahučký oblak plný pôvabu, raduj sa..."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Mária, od základov sväté, Božie mesto, \n      Mária, pokladnica dobier, anjelmi bedlivo strážená, raduj sa..."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Mária, ozdobená darmi Svätého Ducha sťa zlatými niťami, \n      Mária, spoľahlivá ochrankyňa Zemplína, raduj sa..."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Mária, svätosťou všetkých prevyšujúca, \n      Mária, ohnivý voz, na ktorom sa nieslo Slovo, raduj sa..."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Mária, odstránenie Eviných bolestí, \n      Mária, lampa milosťou ustavične žiariaca, raduj sa..."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Nasledujú stichiry, počas ktorých ľud prichádza uctiť si ikonu. Pri väčšom počte ľudí možno prichádzať k ikone už počas invokácií."
+            android:layout_margin="8dp"
+            android:textColor="#FFFF0000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Hl. 5. Ty, Prečistá, si naozaj cherubínsky trón, * lebo prevyšuješ všetko tvorstvo. * V tebe sa ubytovalo Slovo Boha. * Z teba prišlo na svet v tele, * túžiac obnoviť našu podobu. * Kvôli nám sa podrobilo smrti na kríži * a pretože je Bohom, darovalo vzkriesenie nášmu rodu, * ktorý sa spreneveril a zasluhoval odsúdenie. * Preto, Božia Matka, tvojho Syna ako Tvorcu prosíme, * aby nám v čase súdu uštedril odpustenie a milosrdenstvo."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Verš: Veľké veci mi urobil ten, ktorý je mocný a sväté je jeho meno."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Aký titul dám tvojmu chrámu, čistá Bohorodička? * Veď ho sám Boh oslávil. * Nazvem ho rajskou záhradou. * Dám mu meno Noemova archa, * v ktorej kvôli Bohu našlo záchranu kráľovské kňazstvo, * všetok svätý ľud a zhromaždenie Krista, nášho Boha. * Prirovnávam ťa k Mojžišovmu stánku, * kde sa nachádzalo umývadlo a palica, ktorá sa zazelenala, * kde stál svietnik, nádoba s mannou a zlatá kadidelnica. * Každý veriaci doň prichádza * a vyprosuje si hojné milosrdenstvo."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Verš: Mocnárov zosadil z trónov a povýšil ponížených."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Beznádejných jediná si nádej, * pripravená pomáhať bezradným. * Ty si porodila blahosklonného Ježiša; * maj súcit s mojou slabosťou, Čistá, * a mojim myšlienkam daruj skrúšenosť. * Prúdmi sĺz potop neprekonateľnú hlbinu mojich hriechov. * Zažeň búrku mojich nespočetných vášní. * Božským pokojom naplň moje zarmútené srdce * a pros Krista, aby mi daroval dokonalé odpustenie."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Sláva: I teraz: hl. 8.: Pristúpte, veriaci, zíďte sa zo všetkých končín * na oslavu presvätej Matky Krista, nášho Boha, * spoločne volajme podobne ako prorok Micheáš, hovoriac: * A ty, Klokočov, na úpätí Vihorlatu učupený, * nijako nezaostávaš za poprednými obcami slovenskej krajiny, * lebo v tebe dobrotivá Vládkyňa Bohorodička, * prejavila blízkosť svojmu vernému ľudu, * vyjadrenú slzami stekajúcimi po jej tvári, * na ikone v malom Božom chráme. * Preto jej ikonu s láskou uctievajme a bozkávajme, * no ešte viac jej čnosti nasledujme, * aby sme s jej pomocou došli do nebeských príbytkov, * a mohli sa sýtiť krásou trojjediného Boha."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      D. V pokore skloňme svoje hlavy a v pokoji Pána Boha prosme. \n      Ľ.: Pane, zmiluj sa. 3x"
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Kňaz prednáša modlitbu:"
+            android:layout_margin="8dp"
+            android:textColor="#FFFF0000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Dobrotivá, láskavá a milosrdná Matka, Presvätá Bohorodička, už po stáročia veriaci ľud uctieva s láskou tvoju ikonu na posvätnom mieste, kde kedysi zázračne slzila. V tých slzách na ikone sme spoznali dôvernú blízkosť, súcit, posilu, láskavú starostlivosť, opateru a nehu pravej Matky. Netúžime po tom, aby sa slzy na ikone znova objavili; túžime však, dobrá Matka, po tvoje ustavičnej blízkosti, sprevádzaní a láske. Sprevádzaj nás a vyučuj, teš a povzbudzuj, chráň a ukazuj smer, aby sme poslušne a ochotne robili všetko, čo od nás žiada tvoj Syn a náš Pán, Ježiš Kristus, aby sme boli živými svedkami toho, čo žil a učil, a to rovnako vo chvíľach pokoja ako aj v čase tvrdých skúšok. Nech nám tvoje prosby pred trónom Vládcu celého sveta dopomôžu k večnej spáse, aby sme mohli spolu s tebou, so zbormi anjelov i so všetkými svätými radostne oslavovať a ospevovať Otca i Syna i Svätého Ducha, teraz i vždycky i na veky vekov. \n\n      Ľ.: Amen."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      K.: Zmiluj sa, Bože, nad nami pre svoje veľké milosrdenstvo, prosíme ťa, vypočuj nás a zmiluj sa."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Ľ.: Pane, zmiluj sa (3x po každej prosbe)."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      K.: Prosme, aby naše mesto (alebo obec) i ostatné mestá, obce a celá krajina boli uchránené od hladu, pohrôm, zemetrasenia, povodní, krupobitia, ohňa, meča, vpádu nepriateľa. Nech dobrý a láskyplný Boh vypočuje naše prosby a odvráti od nás svoj spravodlivý hnev a zmiluje sa nad nami."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      K.: Ešte sa modlime k Pánovi, Bohu nášmu, aby sa zmiloval nad nami, svojimi služobníkmi i nad všetkými kresťanmi, ktorí prichádzajú do tohoto svätého chrámu, aby nám odpustil hriechy a udelil nám hojné milosti a vždy vypočul naše prosby."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      K.: Vypočuj nás, Bože, Spasiteľu náš, nádej všetkých končín zeme, i tých, ktorí sú ďaleko na mori. Odpusť milostivo naše hriechy a zmiluj sa nad nami, lebo si dobrý a miluješ nás. Tebe, Otcu i Synu i Svätému Duchu, vzdávame slávu teraz i vždycky i na veky vekov. \n       Ľ.: Amen."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Ak sa moleben konal na konci liturgie, teraz nasleduje Nech je požehnané Pánovo meno, požehnanie a prepustenie. Ak sa konal pred liturgiou alebo mimo nej, nasleduje Premúdrosť!, Čestnejšia si, Sláva tebe, Kriste Bože, a prepustenie:"
+            android:layout_margin="8dp"
+            android:textColor="#FFFF0000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="      Kristus, náš pravý Boh, na prosby svojej prečistej Matky, ktorej divotvornú klokočovskú ikonu s láskou uctievame, prepodobných a bohonosných našich otcov a všetkých svätých, nech sa nad nami zmiluje a spasí nás, lebo je dobrý a miluje nás. \n      Ľ.: Amen."
+            android:layout_margin="8dp"
+            android:textColor="#000000" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bohorodicka"
+            />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
